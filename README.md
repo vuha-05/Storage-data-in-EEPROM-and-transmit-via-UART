@@ -1,5 +1,5 @@
 # Overview 
-This project has two seperate projects. One is for storaging data from PC to EEPROM via I2C. And other is for reading data in EEPROM and transmit to PC via UART. 
+This repository contains two separate sub-projects. One is for writing data from PC to the EEPROM via I2C. The other is for reading data from the EEPROM and transmitting it back to the PC via UART.
 # Hardware 
 - Chip: STM32F103C8T6 (Blue Pills)
 - AT24C256 I2C Interface EEPROM Module
